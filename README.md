@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaconBit93- 
 I’m interested in coding, communicatio...
-- 🌱 I’m currently learning Communications in the Media Track. I've taken some coding glasses, MYSQL, Java & Javascript, HTML5 & CSS, Python...I've also messing around with coding on my free time. 
+- 🌱 I’m currently learning Communications in the Media Track. I've taken some coding classes, MYSQL, Java & Javascript, HTML5 & CSS, Python...I've also messing around with coding on my free time. 
 - 📫 How to reach me.... ask me.
 
 <!---
